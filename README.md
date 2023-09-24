@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hasbi Alamsyah</h1>
-<h3>a student who is studying the world of programming, especially the backend part</h3>
-
-🌱 I’m currently learning about **NodeJS, MongoDB, etc**
-
+a student who is studying the world of programming, especially the backend part and I’m currently learning about programming languages ​​related to the backend. Apart from that, I also work on backend projects such as those in my repository so feel free to see my projects
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
