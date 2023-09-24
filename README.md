@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hasbi Alamsyah</h1>
+<h1>Hi 👋, I'm Hasbi Alamsyah</h1>
 a student who is studying the world of programming, especially the backend part and I’m currently learning about programming languages ​​related to the backend. Apart from that, I also work on backend projects such as those in my repository so feel free to see my projects
 
 <h3 align="left">Languages and Tools:</h3>
